@@ -27,8 +27,7 @@ bởi Google) để thu thập thông tin về cách bạn tương tác với �
 Chúng tôi cần dữ liệu này để hiểu cách bạn sử dụng ứng dụng để có thể
 cải thiện trải nghiệm người dùng. Thông tin này có thể bao gồm:
 
--   Dữ liệu về lượt truy cập ứng dụng, bao gồm số lần truy cập, thời
-    > gian ở lại trang, và các trang đã xem, thông tin thiết bị.
+-   Dữ liệu về lượt truy cập ứng dụng, bao gồm số lần truy cập, thời gian ở lại trang, và các trang đã xem, thông tin thiết bị.
 
 -   Thông tin tương tác của người dùng với ứng dụng.
 
